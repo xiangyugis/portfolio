@@ -31,6 +31,7 @@ body{
 }
 .navList a{
   text-decoration: none;
+  color:black;
 }
 #currentList{
   color: #FF9700;
