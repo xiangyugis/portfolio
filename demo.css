@@ -121,7 +121,7 @@ footer{
   margin-right:auto;
 }
 @media screen and (max-width: 800px) {
-  #intro, #welcome{
+  #intro, #Welcome{
    font-size: 2em;
   }
   .projectBox{
