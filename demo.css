@@ -121,21 +121,3 @@ footer{
   margin-right:auto;
 }
 
-@media screen and (max-width: 800px) {
-  #intro, #welcome{
-   font-size: 2em;
-  }
-  .projectBox{
-   display: block;
-  }
-  .leftProject{
-   width: 100%;
-   margin: auto;
-   padding: 0 0 1em 0;
-  }
-  .rightProject{
-   width: 100%;
-   margin: auto;
-   padding: 0 0 1em 0;
-  }
-}
